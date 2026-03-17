@@ -1,9 +1,5 @@
-REUSABLE CODE 
-Baseline template to generate ppt style presentations on HTML.  
+MENU: https://danielmollrojas.github.io/fefsg-html
 
-  1) Duplicate the file: presentation-template.html
-  2) Rename to match purpose
-  3) Replace placeholders: Presentation Title, Section, bullet point, card title
-  4) Replace images or delete them.
-
-     
+  DECKS:
+    1) Student Leadership Positions 
+    https://danielmollrojas.github.io/fefsg-html/decks/student-leadership-positions.html
